@@ -40,4 +40,4 @@
 
 [![Linkedin: Ricardo Ferretti](https://img.shields.io/badge/-ricardoferretti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-ferretti-9a0832229/)](https://www.linkedin.com/in/ricardo-ferretti-9a0832229/)
 [![Gmail Badge](https://img.shields.io/badge/-ricardofabianoferretti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardofabianoferretti@gmail.com)](mailto:ricardofabianoferretti@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/ferrettipp?label=follow&style=social)](https://github.com/ferrettipp)
+[![GitHub ferrettipp]( https://img.shields.io/github/followers/ferrettipp?label=follow&style=social)](https://github.com/ferrettipp)
