@@ -1,4 +1,4 @@
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;About me.</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **PROGRAMMING**.
